@@ -1,5 +1,5 @@
-# Учусь программированию
-## Так что тут пока ничего нет
+Учусь программированию  
+Так что тут пока ничего нет
 
 <!---
 3lcode/3lcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
