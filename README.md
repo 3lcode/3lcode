@@ -1,6 +1,6 @@
 
 👾 Учусь программированию, так что тут пока ничего нет :) 🤖  
-⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻  
+⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻⸻  
 👾 I'm learning programming, so there is nothing here yet :) 🤖
 
 <!---
