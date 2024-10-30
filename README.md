@@ -1,8 +1,9 @@
+# О себе
 📱 Мобильный разработчик 
 
-Технологии: Kotlin, Android, Jetpack Compose
+⚒ Технологии: Kotlin, Android, Jetpack Compose
 
-Изученные языки: C++, Python, Java, C#, Kotlin, HTML, CSS, JavaScript
+🌍 Изученные языки: C++, Python, Java, C#, Kotlin, HTML, CSS, JavaScript
 
 # Проекты
 
