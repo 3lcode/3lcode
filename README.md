@@ -2,4 +2,4 @@
 
 Технологии: Kotlin, Android, Jetpack Compose
 
-![Изображение]("images/главный экран.jpg")
+<img src="images/добавление продукта.jpg" alt="Главный экран" width="300"/>
