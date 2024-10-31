@@ -25,7 +25,9 @@ Android приложение на Kotlin. Технологии: Jetpack Compose,
 
 ### Pomodoro Таймер
 
-Kotlin Multiplatform приложение на desktop и android.. Технологии: Compose Multiplatform, Compose Navigation, Koin, Material 3
+Kotlin Multiplatform приложение на desktop и android.
+
+Технологии: Compose Multiplatform, Compose Navigation, Koin, Material 3
 
 Desktop:
 
